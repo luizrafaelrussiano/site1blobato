@@ -19,3 +19,11 @@ background-color: aquamarine;
 .footer{
 background-color: black;
 }
+.boton{
+    position: fixed;
+top: 20px;
+left: 20px;
+padding: 10px 20px;
+background-color: rgb(118, 200, 233);
+ color: black;
+}
