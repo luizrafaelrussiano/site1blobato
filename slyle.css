@@ -31,5 +31,7 @@ background-color: rgb(118, 200, 233);
 }
 .boton:hover{
     background: linear-gradient(to right,#5feb99,#3ae024,#c5f006);
-
 }
+  .boton:active{
+    font-size: 15px;
+  }
