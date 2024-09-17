@@ -8,6 +8,7 @@
 }
 
 .cabecalho{
+  position: relative;
 
 background-color: aqua;
 padding: 50px;
