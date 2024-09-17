@@ -35,3 +35,6 @@ background-color: rgb(118, 200, 233);
   .boton:active{
     font-size: 15px;
   }
+  h2{
+    left: 100px;
+  }
