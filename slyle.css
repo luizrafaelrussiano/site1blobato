@@ -66,8 +66,21 @@ background-color: rgb(118, 200, 233);
     object-fit: cover;
     width: 500px;
     height: auto;
-    margin: 25%;
-  
+  }
+
+.ima1 {
+width: 100px;
+height: auto;
 }
-
-
+.ima2 {
+    width: 100px;
+    height: auto;
+}
+.ima3 {
+    width: 100px;
+    height: auto;
+}
+.ima4 {
+    width: 100px;
+    height: auto;
+}
